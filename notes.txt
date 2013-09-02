@@ -1,0 +1,9 @@
+2012 NASA Lunabotics Competition Code
+Team: FIU
+Programmer: Jonathan Broche
+
+Arduino Uno microcontroller
+WiFly Shield - https://www.sparkfun.com/products/9954 
+
+Used telnet to communicate with robot
+
