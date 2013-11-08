@@ -1,7 +1,9 @@
-2012 FIU NASA Lunabotics [![FIU Lunabotics Site (https://sites.google.com/site/fiulunaboticstest/2011-2012-Team)]
+2012 FIU NASA Lunabotics
 ===================
 
 NASA's Lunabotics Mining Competition is a university-level competition designed to engage and retain students in science, technology, engineering and mathematics (STEM). The FIU Lunabotics team designed and built an excavator, called a Lunabot, that had the ability to mine and deposit a minimum of 10 kilograms of lunar simulant within 10 minutes.
+
+Read more about the competition and the 2012 team [here](https://sites.google.com/site/fiulunaboticstest/2011-2012-Team).
 
 Using this code
 --
