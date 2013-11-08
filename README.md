@@ -7,7 +7,7 @@ Read more about the competition and the 2012 team [here](https://sites.google.co
 
 Using this code
 --
-Feel free to use any or all the code! This code was created for the Arduino, specifically the Uno with a WiFly shield. The code within this repo does many things, but one of the most important is transmitting commands to the robot thru wifi (telnet). 
+Feel free to use any or all the code present in this repo. The code was created for the Arduino, specifically the Uno with a WiFly shield. The code within this repo does many things, but one of the most important is transmitting commands to the robot thru wifi (telnet). 
 
 Many things could have been improved on or implemented differently but couldn't do to the short window span. You can do better! 
 
