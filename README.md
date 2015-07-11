@@ -13,4 +13,4 @@ Many things could have been improved on or implemented differently but couldn't 
 
 Questions
 --
-Feel free to ping me @ jonathan@gojhonny.com
+Feel free to ping me @ jb@gojhonny.com
