@@ -11,6 +11,6 @@ Feel free to use any or all the code present in this repo. The code was created 
 
 Many things could have been improved on or implemented differently but couldn't do to the short window span. You can do better! 
 
-Questions
+Contact
 --
-Feel free to ping me @ jb@gojhonny.com
+Feel free to ping me at [@g0jhonny](https://twitter.com/g0jhonny) with any questions.
