@@ -5,9 +5,9 @@ NASA's Lunabotics Mining Competition is a university-level competition designed 
 
 Using this code
 --
-Feel free to use any or all the code present in this repo. The code was created for the Arduino, specifically the Uno with a WiFly shield. The code within this repo does many things, but one of the most important is transmitting commands to the robot thru wifi (telnet). 
+Feel free to use any or all the code present in this repo. The code was created for the Arduino, specifically the Uno with a WiFly shield. The escavator was sent commands on a wireless network through telnet.
 
-Many things could have been improved on or implemented differently but couldn't do to the short window span. You can do better! 
+Please note that telnet is an insecure protocol. Any commands or information sent through this protocol will be sent in cleartext and may be intercepted.
 
 Contact
 --
